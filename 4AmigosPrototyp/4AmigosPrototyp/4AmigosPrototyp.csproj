@@ -89,13 +89,16 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+    <Content Include="AccountPage.html" />
     <Content Include="Contactpage.html" />
     <Content Include="Content\logo.png" />
     <Content Include="Content\Style.css" />
     <Content Include="Global.asax" />
     <Content Include="Index.html" />
     <Content Include="LoginPage.html" />
-    <Content Include="Web.config" />
+    <Content Include="Web.config">
+      <SubType>Designer</SubType>
+    </Content>
   </ItemGroup>
   <ItemGroup>
     <Compile Include="App_Start\RouteConfig.cs" />
