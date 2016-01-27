@@ -98,6 +98,7 @@
     <Content Include="Content\bild5.JPG" />
     <Content Include="Content\logo.png" />
     <Content Include="Content\Style.css" />
+    <Content Include="GalleryPage.html" />
     <Content Include="Global.asax" />
     <Content Include="Index.html" />
     <Content Include="LoginPage.html" />
