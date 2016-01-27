@@ -91,6 +91,11 @@
   <ItemGroup>
     <Content Include="AccountPage.html" />
     <Content Include="Contactpage.html" />
+    <Content Include="Content\bild1.JPG" />
+    <Content Include="Content\bild2.JPG" />
+    <Content Include="Content\bild3.JPG" />
+    <Content Include="Content\bild4.JPG" />
+    <Content Include="Content\bild5.JPG" />
     <Content Include="Content\logo.png" />
     <Content Include="Content\Style.css" />
     <Content Include="Global.asax" />
