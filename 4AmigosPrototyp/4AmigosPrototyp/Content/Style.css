@@ -39,6 +39,14 @@
     font-size: 23px;
 }
 
+
 .btn:hover{
-    color: blue;
+    color: black;
+    opacity: 0.75;
 }
+
+.btn{
+    background-color: #E88300;
+    color: white;
+}
+
