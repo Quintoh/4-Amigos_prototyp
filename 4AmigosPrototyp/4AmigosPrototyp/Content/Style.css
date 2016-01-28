@@ -50,3 +50,6 @@
     color: white;
 }
 
+.navbar-right:hover{
+    opacity: 0.75;
+}
