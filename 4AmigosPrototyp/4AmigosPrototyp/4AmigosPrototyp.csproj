@@ -91,6 +91,7 @@
   <ItemGroup>
     <Content Include="AccountPage.html" />
     <Content Include="Contactpage.html" />
+    <Content Include="Content\Bakgrund 1.png" />
     <Content Include="Content\bild1.JPG" />
     <Content Include="Content\bild2.JPG" />
     <Content Include="Content\bild3.JPG" />
