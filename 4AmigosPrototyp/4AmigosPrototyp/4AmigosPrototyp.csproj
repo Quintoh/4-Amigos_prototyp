@@ -91,14 +91,21 @@
   <ItemGroup>
     <Content Include="AccountPage.html" />
     <Content Include="Contactpage.html" />
+    <Content Include="Content\admin.png" />
+    <Content Include="Content\art.png" />
     <Content Include="Content\Bakgrund 1.png" />
     <Content Include="Content\bild1.JPG" />
     <Content Include="Content\bild2.JPG" />
     <Content Include="Content\bild3.JPG" />
     <Content Include="Content\bild4.JPG" />
     <Content Include="Content\bild5.JPG" />
+    <Content Include="Content\facebook.png" />
+    <Content Include="Content\förstoringsglas.png" />
+    <Content Include="Content\instagram.png" />
     <Content Include="Content\logo.png" />
     <Content Include="Content\Style.css" />
+    <Content Include="Content\twitter.png" />
+    <Content Include="Content\ögon.png" />
     <Content Include="GalleryPage.html" />
     <Content Include="Global.asax" />
     <Content Include="Index.html" />
