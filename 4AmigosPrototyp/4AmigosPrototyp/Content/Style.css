@@ -41,7 +41,6 @@
 
 
 .btn:hover{
-    color: black;
     opacity: 0.75;
 }
 
@@ -52,4 +51,29 @@
 
 .navbar-right:hover{
     opacity: 0.75;
+}
+
+.sökresultat{
+    border: solid 2px #E4E4E4;
+    border-radius: 10px;
+    height: 250px;
+    width: 900px;
+}
+
+.sökbild{
+    margin: 5px;
+    width: 100%;
+    left: -15px;
+    position: relative;
+    border-radius: 10px;
+}
+
+.karta:hover{
+    opacity: 0.75;
+    width: 65px;
+}
+
+.karta{
+    width: 60px;
+    opacity: 1;
 }

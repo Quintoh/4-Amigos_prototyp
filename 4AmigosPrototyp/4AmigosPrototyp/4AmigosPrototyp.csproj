@@ -102,6 +102,7 @@
     <Content Include="Content\facebook.png" />
     <Content Include="Content\förstoringsglas.png" />
     <Content Include="Content\instagram.png" />
+    <Content Include="Content\karta.png" />
     <Content Include="Content\logo.png" />
     <Content Include="Content\Style.css" />
     <Content Include="Content\twitter.png" />
