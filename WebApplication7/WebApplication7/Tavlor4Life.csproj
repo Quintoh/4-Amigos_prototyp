@@ -48,6 +48,8 @@
       <Private>True</Private>
     </Reference>
     <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Runtime.Serialization" />
+    <Reference Include="System.Security" />
     <Reference Include="System.Web.DynamicData" />
     <Reference Include="System.Web.Entity" />
     <Reference Include="System.Web.ApplicationServices" />
@@ -108,6 +110,7 @@
     <Content Include="Content\Image\twitter.png" />
     <Content Include="Content\Site.css" />
     <Content Include="Content\Style.css" />
+<<<<<<< HEAD:WebApplication7/WebApplication7/Tavlor4Life.csproj
     <Content Include="fonts\glyphicons-halflings-regular.svg" />
     <Content Include="Global.asax" />
     <Content Include="fonts\glyphicons-halflings-regular.woff2" />
@@ -136,6 +139,17 @@
     <Content Include="Views\Home\Contact.cshtml" />
     <Content Include="Views\Account\Login.cshtml" />
     <Content Include="Views\Account\Account.cshtml" />
+=======
+    <Content Include="Content\twitter.png" />
+    <Content Include="GalleryPage.html" />
+    <Content Include="Global.asax" />
+    <Content Include="Index.html" />
+    <Content Include="LoginPage.html" />
+    <Content Include="LäggTillKonstverkSida.html" />
+    <Content Include="Web.config">
+      <SubType>Designer</SubType>
+    </Content>
+>>>>>>> 80d64c8bad74c089736dbc510db1d311c47b33d8:4AmigosPrototyp/4AmigosPrototyp/4AmigosPrototyp.csproj
   </ItemGroup>
   <ItemGroup>
     <Compile Include="App_Start\RouteConfig.cs" />
