@@ -18,5 +18,10 @@ namespace Tavlor4Life.Controllers
         {
             return View();
         }
+
+        public ActionResult AddAndEdit()
+        {
+            return View();
+        }
     }
 }
