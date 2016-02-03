@@ -109,6 +109,7 @@
     <Content Include="Content\Image\gymnasiet.jpg" />
     <Content Include="Content\Image\instagram.png" />
     <Content Include="Content\Image\karta.png" />
+    <Content Include="Content\Image\Karta1.jpg" />
     <Content Include="Content\Image\logo.png" />
     <Content Include="Content\Image\twitter.png" />
     <Content Include="Content\Site.css" />
@@ -156,6 +157,7 @@
     <Content Include="Views\web.config" />
     <Content Include="packages.config" />
     <Content Include="Scripts\jquery-1.9.1.min.map" />
+    <Content Include="Views\Account\AddAndEdit.cshtml" />
     <None Include="Web.Debug.config">
       <DependentUpon>Web.config</DependentUpon>
     </None>
