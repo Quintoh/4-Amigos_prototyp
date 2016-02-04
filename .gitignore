@@ -3,7 +3,7 @@
 
 4AmigosPrototyp/.vs/config/applicationhost.config
 
-.mdf
+*.mdf
 
 # User-specific files
 *.suo
