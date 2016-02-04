@@ -81,6 +81,11 @@
     border-style: solid;
     border-color: #E88300;
     border-radius: 10px;
-    background: none;
-   box-shadow: #fff;
+   
+}
+.bildborder{
+    border-color: #E88300;
+    border-radius: 10px;
+    border:solid;
+    border-color: #E88300;
 }
