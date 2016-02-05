@@ -11,16 +11,8 @@ namespace Tavlor4Life.Controllers
         // GET: Home
         public ActionResult Index()
         {
-            
-        
-            
-
             return View();
-        
-
-            
-        }
-    
+        }    
 
         public ActionResult Galleri()
         {
