@@ -77,14 +77,15 @@
     width: 60px;
     opacity: 1;
 }
-.textboxfärg{
-    border-style: solid;
-    border-color: #E88300;
-    border-radius: 10px;
-}
+
 .bildborder{
-    border-color: #E88300;
+    border-color: #000000;
     border-radius: 10px;
     border:solid;
-    border-color: #E88300;
+    
 }
+.bildborder:hover{
+    opacity:0.7;
+}
+
+
