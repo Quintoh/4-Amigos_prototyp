@@ -1,0 +1,6 @@
+c:\users\admin\documents\visual studio 2015\Projects\T4-DataDemo-2016-02-10\T4-DataDemo-2016-02-10\bin\Debug\T4-DataDemo-2016-02-10.exe.config
+c:\users\admin\documents\visual studio 2015\Projects\T4-DataDemo-2016-02-10\T4-DataDemo-2016-02-10\obj\Debug\T4-DataDemo-2016-02-10.csprojResolveAssemblyReference.cache
+c:\users\admin\documents\visual studio 2015\Projects\T4-DataDemo-2016-02-10\T4-DataDemo-2016-02-10\bin\Debug\T4-DataDemo-2016-02-10.exe
+c:\users\admin\documents\visual studio 2015\Projects\T4-DataDemo-2016-02-10\T4-DataDemo-2016-02-10\bin\Debug\T4-DataDemo-2016-02-10.pdb
+c:\users\admin\documents\visual studio 2015\Projects\T4-DataDemo-2016-02-10\T4-DataDemo-2016-02-10\obj\Debug\T4-DataDemo-2016-02-10.exe
+c:\users\admin\documents\visual studio 2015\Projects\T4-DataDemo-2016-02-10\T4-DataDemo-2016-02-10\obj\Debug\T4-DataDemo-2016-02-10.pdb

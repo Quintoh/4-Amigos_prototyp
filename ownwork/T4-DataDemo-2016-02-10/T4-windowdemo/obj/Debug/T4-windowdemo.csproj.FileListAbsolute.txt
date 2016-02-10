@@ -1,0 +1,14 @@
+c:\users\admin\documents\visual studio 2015\Projects\T4-DataDemo-2016-02-10\T4-windowdemo\bin\Debug\T4-windowdemo.exe.config
+c:\users\admin\documents\visual studio 2015\Projects\T4-DataDemo-2016-02-10\T4-windowdemo\bin\Debug\T4-windowdemo.exe
+c:\users\admin\documents\visual studio 2015\Projects\T4-DataDemo-2016-02-10\T4-windowdemo\bin\Debug\T4-windowdemo.pdb
+c:\users\admin\documents\visual studio 2015\Projects\T4-DataDemo-2016-02-10\T4-windowdemo\bin\Debug\T4-DataDemo-2016-02-10.exe
+c:\users\admin\documents\visual studio 2015\Projects\T4-DataDemo-2016-02-10\T4-windowdemo\bin\Debug\T4-DataDemo-2016-02-10.pdb
+c:\users\admin\documents\visual studio 2015\Projects\T4-DataDemo-2016-02-10\T4-windowdemo\obj\Debug\T4-windowdemo.csprojResolveAssemblyReference.cache
+c:\users\admin\documents\visual studio 2015\Projects\T4-DataDemo-2016-02-10\T4-windowdemo\obj\Debug\T4_windowdemo.Form1.resources
+c:\users\admin\documents\visual studio 2015\Projects\T4-DataDemo-2016-02-10\T4-windowdemo\obj\Debug\T4_windowdemo.Properties.Resources.resources
+c:\users\admin\documents\visual studio 2015\Projects\T4-DataDemo-2016-02-10\T4-windowdemo\obj\Debug\T4-windowdemo.csproj.GenerateResource.Cache
+c:\users\admin\documents\visual studio 2015\Projects\T4-DataDemo-2016-02-10\T4-windowdemo\obj\Debug\T4-windowdemo.exe
+c:\users\admin\documents\visual studio 2015\Projects\T4-DataDemo-2016-02-10\T4-windowdemo\obj\Debug\T4-windowdemo.pdb
+C:\Users\Admin\Documents\Development\ownwork\T4-DataDemo-2016-02-10\T4-windowdemo\bin\Debug\T4-windowdemo.exe.config
+C:\Users\Admin\Documents\Development\ownwork\T4-DataDemo-2016-02-10\T4-windowdemo\obj\Debug\T4-windowdemo.exe
+C:\Users\Admin\Documents\Development\ownwork\T4-DataDemo-2016-02-10\T4-windowdemo\obj\Debug\T4-windowdemo.pdb
